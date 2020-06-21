@@ -1,0 +1,35 @@
+body {
+
+text-align: center;
+
+}
+.grid-contain {
+    margin-bottom: 20px;
+}
+
+.grid-div {
+    width: 30px;
+    height: 30px;
+    border: solid;
+    margin: -1px;
+}
+
+.grid-div:hover {
+    background-color: #b5eda6;
+}
+
+.grid-row {
+    display: flex;
+    justify-content: center;
+}
+
+.add-color {
+    background-color: black;
+}
+
+/* .grid-contain {
+
+display: flex;
+flex-direction: row;
+
+} */
